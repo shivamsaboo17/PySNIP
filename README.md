@@ -1,4 +1,4 @@
-# SNIP
+# PySNIP
 Unofficial implementation of SNIP (ICLR 19) in PyTorch.
 SNIP is a single shot neural network prunning technique which prunes the network before training based on sensitivity of connections of the randomly initialized weights.
 
